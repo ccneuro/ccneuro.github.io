@@ -23,6 +23,9 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'People', link: '/people'}
+  - {name: 'Publications', link: '/publications'}
+  - {name: 'News', link: '/news'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
