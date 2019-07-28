@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 ## 2019
