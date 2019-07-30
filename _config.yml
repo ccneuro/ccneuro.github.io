@@ -22,7 +22,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: 'Research', link: '/research'}
   - {name: 'People', link: '/people'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'News', link: '/news'}
