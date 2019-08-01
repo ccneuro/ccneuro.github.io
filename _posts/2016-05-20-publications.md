@@ -1,5 +1,7 @@
 ---
 layout: page
+summary: Our latest publications
+
 ---
 
 ## 2019
