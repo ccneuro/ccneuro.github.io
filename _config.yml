@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Cognitive Computational Neuroscience Lab # your site title
 author: Athina T
-description: > # Meta description of Homepage
+description: laboratory at University of Bern # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -13,11 +13,7 @@ social:
   name: Your Name
   links:
     - https://twitter.com/aath0
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
     - https://github.com/ccneuro
-    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
