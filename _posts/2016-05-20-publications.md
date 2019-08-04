@@ -26,6 +26,6 @@ De Lucia M.,**Tzovara A.** (**2015**). [Decoding auditory EEG responses in healt
 
 **Tzovara A.**, Murray M.M., Bourdaud N., Chavarriaga R., Del R. Millan J., DeLucia M. (**2012**). [The timing of exploratory decision-making revealed by single-trialtopographic EEG analyses](https://www.sciencedirect.com/science/article/pii/S1053811912001632), Neuroimage.
 
-Bernasconi F.*, De Lucia M.*,***Tzovara A.*** *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), J. of Neuroscience.
+Bernasconi F.*, De Lucia M.*,**Tzovara A.** *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), J. of Neuroscience.
 
-* Equal contribution
+ * Equal contribution
