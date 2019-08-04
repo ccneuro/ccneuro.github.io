@@ -12,7 +12,7 @@ Greshake Tzovaras B., Angrist M., Arvai K., Dulaney M., Estrada-Galiñanes V., G
 
 **Tzovara A.**, Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioningconforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), PLOS Computational Biology.
 
-D.R. Bach, **Tzovara A.**, Vunder J. (**2017**). [Blocking human fear memory with thematrix metalloproteinase inhibitor doxycycline](https://www.nature.com/articles/mp201765), Molecular Psychiatry.
+Bach D. R., **Tzovara A.**, Vunder J. (**2017**). [Blocking human fear memory with thematrix metalloproteinase inhibitor doxycycline](https://www.nature.com/articles/mp201765), Molecular Psychiatry.
 
 **Tzovara A.**, Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLucia M. (**2016**). [Prediction of awakening from hypothermic post anoxic comabased on auditory discrimination](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.24622), Annals of Neurology.
 
