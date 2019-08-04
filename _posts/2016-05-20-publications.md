@@ -14,6 +14,10 @@ Greshake Tzovaras B., Angrist M., Arvai K., Dulaney M., Estrada-Galiñanes V., G
 
 **Tzovara A.**, Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLucia M. (**2016**). Prediction of awakening from hypothermic post anoxic comabased on auditory discrimination. **Annals of Neurology**, [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.24622).
 
-**Tzovara A.**,, Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). Neural detection of complex sound sequences in the absence of consciousness. **Brain**, [Link](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041).
+**Tzovara A.**, Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). Neural detection of complex sound sequences in the absence of consciousness. **Brain**, [Link](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041).
 
 Chouiter L.*,**Tzovara A.** *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). Experience-based auditory predictions modulate brain activity tosilence as do real sounds. **J Cogn Neuroscience**, [Link](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835).
+
+De Lucia M.,**Tzovara A.** (**2015**). Decoding auditory EEG responses in healthy andclinical populations: A comparative study. **J Neurosci Methods**, [Link](https://www.sciencedirect.com/science/article/pii/S0165027014003872?via%3Dihub).
+
+**Tzovara A.**, Rossetti A.O., Murray M.M., Spierer L., Grivel J., Oddo M., De Lucia M. (**2013**). Progression of auditory discrimination based on neural decoding predictsawakening from coma. **Brain**, [Link](https://academic.oup.com/brain/article/136/1/81/430538).
