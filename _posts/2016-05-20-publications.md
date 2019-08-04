@@ -12,11 +12,11 @@ Greshake Tzovaras B., Angrist M., Arvai K., Dulaney M., Estrada-Galiñanes V., G
 
 **Tzovara A.**, Korn C.W. Bach D.R. (**2018**). [Human Pavlovian fear conditioningconforms to probabilistic learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006243), PLOS Computational Biology.
 
-**Tzovara A.**, Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLucia M. (**2016**). [Prediction of awakening from hypothermic post anoxic comabased on auditory discrimination](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.24622) Annals of Neurology.
+**Tzovara A.**, Rossetti A.O., Juan E., Suys T., Viceic D., Rusca M., Oddo M., DeLucia M. (**2016**). [Prediction of awakening from hypothermic post anoxic comabased on auditory discrimination](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.24622), Annals of Neurology.
 
 **Tzovara A.**, Simonin A., Oddo M., Rossetti A.O., De Lucia M. (**2015**). [Neural detection of complex sound sequences in the absence of consciousness](https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awv041), Brain.
 
-Chouiter L.*,**Tzovara A.** *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity tosilence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835). J Cogn Neuroscience.
+Chouiter L.*,**Tzovara A.** *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,Spierer L. (**2015**). [Experience-based auditory predictions modulate brain activity tosilence as do real sounds](https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_00835), J Cogn Neuroscience.
 
 De Lucia M.,**Tzovara A.** (**2015**). [Decoding auditory EEG responses in healthy andclinical populations: A comparative study](https://www.sciencedirect.com/science/article/pii/S0165027014003872?via%3Dihub), J Neurosci Methods.
 
