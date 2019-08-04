@@ -21,3 +21,7 @@ Chouiter L.*,**Tzovara A.** *, Dieguez S., Annoni J.M., Magezi D., De Lucia M.,S
 De Lucia M.,**Tzovara A.** (**2015**). [Decoding auditory EEG responses in healthy andclinical populations: A comparative study](https://www.sciencedirect.com/science/article/pii/S0165027014003872?via%3Dihub), J Neurosci Methods.
 
 **Tzovara A.**, Rossetti A.O., Murray M.M., Spierer L., Grivel J., Oddo M., De Lucia M. (**2013**). [Progression of auditory discrimination based on neural decoding predictsawakening from coma](https://academic.oup.com/brain/article/136/1/81/430538), Brain.
+
+**Tzovara A.**, Murray M.M., Bourdaud N., Chavarriaga R., Del R. Millan J., DeLucia M. (**2012**). [The timing of exploratory decision-making revealed by single-trialtopographic EEG analyses](https://www.sciencedirect.com/science/article/pii/S1053811912001632), Neuroimage.
+
+Bernasconi F.*, De Lucia M.*,***Tzovara A.*** *, Manuel A. L., Murray M.M., SpiererL. (**2011**). [Noise in brain activity engenders perception and influences discrimination sensitivity](http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=22159111), J. of Neuroscience.
