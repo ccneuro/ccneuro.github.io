@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sigurd Alnes
+title: Sigurd Lerkerød Alnes
 permalink: /salnes/
 ---
 
-### Sigurd Alnes
+### Sigurd Lerkerød Alnes
 
 <img align="left" style="display:inline" src="https://raw.githubusercontent.com/ccneuro/ccneuro.github.io/master/assets/img/posts/AlnesSigurd_Picture.jpg" alt="Smiley face" style="width:300px;padding:25px"/> <br/> <br/>
 <a href="sigurd.alnes@inf.unibe.ch">Email</a><br/>
