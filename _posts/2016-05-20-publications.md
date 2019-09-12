@@ -1,7 +1,7 @@
 ---
 layout: page
 summary: Latest publications
-
+featured-img: Pubs1
 ---
 
 ## Representative publications
