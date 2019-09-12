@@ -24,6 +24,7 @@ navigation: # Navigation links
   - {name: 'People', link: '/people'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'News', link: '/news'}
+  - {name: 'Openings', link: '/open'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
