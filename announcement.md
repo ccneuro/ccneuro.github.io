@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Positions for Phd student and postdoctoral researcher in neuroscience
+title: Phd student and postdoctoral researcher in neuroscience
 ---
 
 **PhD student and postdoctoral researcher in neuroscience**
