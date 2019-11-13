@@ -7,7 +7,7 @@ title: Phd student and postdoc positions in neuroscience
 
 Applications are invited for one PhD student and one postdoctoral researcher in neuroscience, at the University of Bern, Switzerland. The research focus will be on studying the neural and computational mechanisms underlying the generation of sensory predictions. To this aim, the employed student and postdoc will design computational models of learning and will combine those with electrophysiological recordings in humans to investigate predictive processes in the auditory modality, in wakefulness and sleep.
 
-Our group is using scalp and intracranial electroencephalography -EEG- recordings, machine learning and computational modeling techniques, as well as single-unit measurements in humans. The positions will be based at the Institute for Computer Science and Faculty of Medicine at the University of Bern in Switzerland, under the supervision of Athina Tzovara.
+Our [group](https://www.inf.unibe.ch/about_us/team/cognitive_computational_neuroscience_ccn/index_eng.html) is using scalp and intracranial electroencephalography -EEG- recordings, machine learning and computational modeling techniques, as well as single-unit measurements in humans. The positions will be based at the Institute for Computer Science and Faculty of Medicine at the University of Bern in Switzerland, under the supervision of Athina Tzovara.
 
 #### What we offer:
 
