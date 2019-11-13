@@ -3,7 +3,7 @@ layout: page
 title: Phd student and postdoc positions in neuroscience
 ---
 
-**PhD student and postdoctoral researcher in neuroscience**
+**Phd student and postdoc positions in neuroscience**
 
 Applications are invited for one PhD student and one postdoctoral researcher in neuroscience, at the University of Bern, Switzerland. The research focus will be on studying the neural and computational mechanisms underlying the generation of sensory predictions. To this aim, the employed student and postdoc will design computational models of learning and will combine those with electrophysiological recordings in humans to investigate predictive processes in the auditory modality, in wakefulness and sleep.
 
